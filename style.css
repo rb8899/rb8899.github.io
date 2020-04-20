@@ -1,5 +1,44 @@
-body {
-background:#0d404d;
-font-size: 24px;
-color: white;
+#container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
 }
+#logo{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: large;
+}
+#nav{
+    float: left;
+    background-color: teal;
+    padding: 10px;
+    width: 120px;
+    min-height: 620px;
+}
+#content{
+    float: left;
+    background-color: #c1d2e0;
+    padding: 20px;
+    width: 680px;
+    min-height: 600px;
+}
+#ad{
+    float: left;
+    width: 120px;
+    min-height: 620px;
+    padding: 10px;
+    background-color: teal;
+} 
+#footer{
+    clear: both;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+
