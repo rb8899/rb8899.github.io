@@ -118,7 +118,7 @@ a.linkhtml5{
 }
 .project{
     width: 600px;
-    height: 520px;
+    height: 560px;
     background-color: #cecece;
     padding: 30px;
 }
@@ -128,6 +128,8 @@ a.linkhtml5{
     background-color: #bdbdbd;
     margin-left: auto;
     margin-right: auto;
+    padding: 15px;
+    text-align: justify;
 }
 .projectimg{
     width: 560px;
